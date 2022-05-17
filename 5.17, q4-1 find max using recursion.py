@@ -31,8 +31,6 @@ def find_max(a, n):
         return max_n_1
     else:
         return a[n-1]
-# -
-
 
 
 # +
